@@ -1,0 +1,13 @@
+body{
+    background-color: #3F513A;
+}
+
+.square{
+    border-radius: 25px;
+    position: absolute;
+    left: 150px;
+    top: 75px;
+    height: 550px;
+    width: 1150px;
+    background-color: white;
+}

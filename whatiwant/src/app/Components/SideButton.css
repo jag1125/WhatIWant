@@ -1,0 +1,19 @@
+.button {
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 30px;
+    width: 140px;
+    height: 25px;
+    background-image: linear-gradient(to right, rgba(160, 183, 151, 0), #A0B797);
+    font-family: Tahoma, sans-serif;
+}
+
+.button:hover{
+    background-image: linear-gradient(to right, rgba(160, 183, 151, 1), #A0B797);
+}
+
+a {
+    display: block;
+    color: #000000;
+    text-decoration: none;
+}

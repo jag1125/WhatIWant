@@ -1,0 +1,10 @@
+img{
+    border-radius: 25px;
+    width: 200px;
+    height: 200px;
+}
+.side{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
